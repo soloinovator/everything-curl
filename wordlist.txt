@@ -145,6 +145,7 @@ ERRORBUFFER
 etag
 ETag
 ETags
+Evgeny
 exe
 executables
 extensibility
@@ -420,6 +421,7 @@ Referer
 referer
 repo
 RETR
+retransmissions
 Rikard
 ROADMAP
 Rockbox
@@ -587,3 +589,5 @@ Zakrzewski
 Zitzmann
 zlib
 zsh
+msquic
+quictls
